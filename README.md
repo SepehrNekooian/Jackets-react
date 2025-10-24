@@ -1,9 +1,7 @@
 ## 💻 A React Website
 
 
-
-
-
+<img width="1024" height="473" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e1e46b6c-fbe4-4e4f-8060-3efc47842ea9" />
 
 
 ## 🔗[Demo Project](https://jackets-react.vercel.app/)
